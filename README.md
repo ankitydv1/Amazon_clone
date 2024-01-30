@@ -1,2 +1,2 @@
 # Amazon_clone
-I developed this portfolio website using HTML and CSS . 
+I developed this Amazon-clone  using HTML and CSS . 
